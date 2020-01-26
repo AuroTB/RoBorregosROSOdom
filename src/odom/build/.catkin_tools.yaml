@@ -1,0 +1,6 @@
+devel_space: /home/aurotb/catkin_ws/src/odom/devel
+install: false
+install_space: /home/aurotb/catkin_ws/src/odom/install
+profile: default
+source_space: /home/aurotb/catkin_ws/src/odom/src
+workspace: /home/aurotb/catkin_ws/src/odom

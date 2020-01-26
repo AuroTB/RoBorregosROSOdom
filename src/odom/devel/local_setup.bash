@@ -1,0 +1,1 @@
+/home/aurotb/catkin_ws/src/odom/devel/.private/catkin_tools_prebuild/local_setup.bash
